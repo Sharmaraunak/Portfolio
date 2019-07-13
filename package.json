@@ -9,6 +9,7 @@
   "author": "Raunak Sharma",
   "license": "MIT",
   "dependencies": {
+    "http-server": "^0.11.1",
     "node-sass": "^4.12.0"
   }
 }
